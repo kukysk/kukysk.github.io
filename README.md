@@ -1,6 +1,7 @@
 # kukysk.github.io
 <!DOCTYPE html>
 <html>
+	<meta charset="utf-8">
 <head>
 <title>Page Title</title>
 </head>
