@@ -1,5 +1,4 @@
 # kukysk.github.io
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,15 +18,9 @@
 
 
 <tr>
-    <th height="20px" rowspan="3">
-      <img src="bart.jpg" width="300px" height="300px">
-
-    </th>
-    
+    <th height="20px" rowspan="3"><img src="bart.jpg" width="300px" height="300px"></th>
     <td><h4>Meno:</h4></td>
-
     </td>
-
 	<td>Bart</td>
 </tr>
 <tr>
